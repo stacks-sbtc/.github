@@ -7,3 +7,7 @@ See the pinned repositories of this organization for an overview of the sBTC com
 ## Stacks
 
 sBTC is powered by [Stacks](https://github.com/stacks-network).
+
+## Security
+
+See [here](https://github.com/stacks-sbtc/sbtc/blob/main/SECURITY.md).
